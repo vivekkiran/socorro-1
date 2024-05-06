@@ -1,7 +1,7 @@
 # dev requirements
 
 # sha256: SYQkQdJNiNDs_DhobQIcs7G-56v8VB6fxzReRiDe6rY
-Mako==0.7.3
+Mako==1.2.2
 # sha256: M57ATSCtnNzL_p843OYYLMUEznieXQ-WR-qnUvD5UwA
 MarkupSafe==0.15
 # sha256: EWRYQrqOyYaujPvkxsrP9cNfD0Unq_T1WBrotK1JwLY
@@ -27,7 +27,7 @@ poster==0.8.1
 # sha256: nPgCbuv2CxrIy3j0q_87DfYNM3Co2ZHCrArz4F8lRgg
 sqlalchemy-citext==1.0-2
 # sha256: hHK_EwLbFb3yxDk6XpGAzb8ps_jtWwbAa_XGuo9DNYg
-mercurial==2.7.1
+mercurial==4.9
 # sha256: Yj_jJZOSGfYbQathJMV_SWDOT0hlFoRqqvfUd10qLto
 honcho==0.5.0
 
@@ -37,13 +37,13 @@ honcho==0.5.0
 # sha256: tyudZoyZjmDtOc5F2np0KJ8ou_ozmohba2Wd0xfjNeY
 configman==1.1.16
 # sha256: UV_5I0YlkugyHfi0jEfjQo-NQG7iK43ne--WnRrxEXE
-configobj==4.7.2
+configobj==5.0.8
 # sha256: oz42dZy6Gowxw8AelDtO4gRgTW_xPdooH484k7I5EOY
 hbase-thrift==0.20.4
 # sha256: YjGaw0shgNRQpNknhzyyYA88E7zmsgd83XcMd7Oph-E
 isodate==0.4.7
 # sha256: un_il03Cdt0bg-HEB9ZsetPuZDOPdT1PZXr8qWxJumw
-lxml==2.3.4
+lxml==4.9.1
 # sha256: jjAivJYKpdX8fUxWR4YIdpOhqZ8V4CWtkg_AqjeOHWc
 pgxnclient==1.2.1
 # sha256: Zm_VIvShBZ1bi0mW5Xb6eGL1BVKOEc8e9VRjEcYMPk0
@@ -57,15 +57,15 @@ elasticutils==0.7
 # sha256: wn5AqzzPN_MKn3estJFzcNk0HiWr2o6Uub1IxxJ_fUg
 raven==3.4.1
 # sha256: FWvz7Ce6nsfgz4--AoCHGAmdIY3kA-tkpxTXO6GimrE
-requests==1.2.3
+requests==2.31.0
 # sha256: K89b7bUyilYzBFp9RnhNM5POlAyUnAkMr111ttMWNGY
-simplejson==2.5.0
+simplejson==2.6.1
 # sha256: 8EWv1t_7dVzAQRrLfOmsxN4OcSYdS1-R3i5o2apfg2c
 six==1.4.1
 # sha256: RdsWgxKmgg_XhpfHtv0BlvOvkiyOvIhUDt0Nb6_tVU0
 statsd==2.1.2
 # sha256: 1VJK5SO7ngnFe829HvriwofSBgNojqMfYCDtGApImvA
-suds==0.4
+suds==1.0.0
 # sha256: gLPAyGSc5ZC9JYcVUPZnDqvi6YpdHvXkD5K4hZfYCB0
 thrift==0.8.0
 # sha256: xF7Ftf6qulO7rmndlxwoGDLxMy1ZSc1uXKJ3R_6SJWo
@@ -73,7 +73,7 @@ web.py==0.36
 # sha256: x-YQyACVcEbATIAUqrjM6PC58ElcjNNJ5XwffKv0Dnk
 wsgiref==0.1.2
 # sha256: aM-CXyJ8guGsYeQjz8rZI_9zTCe1vdcXRJXRYsQsYCs
-ujson==1.33
+ujson==5.4.0
 # sha256: TETsP5_wV7jHtMeL7KX92HEGAOqaHfQvMb_Lri8Fne4
 python-dateutil==2.1
 # sha256: HDW0rCBs7y0kgWyJ-Jzyid09OM98RJuz-re_bUPwGx8
